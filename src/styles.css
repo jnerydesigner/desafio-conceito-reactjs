@@ -17,6 +17,9 @@ div li {
   display: flex;
   align-items: center;
 }
+div li span{
+  font-size: 1.6rem;
+}
 
 div li + li {
   margin-top: 15px;

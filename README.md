@@ -1,3 +1,5 @@
+![Banner Keep Coding](https://github.com/jnerydesigner/conceitos-react-native/blob/master/Wallpaper%20Keep%20Coding%20-%201920x1080.jpg)
+
 # Resultados do Teste de ReactJS do Bootcamp 13
 
 ## Listas de Tarefas
@@ -7,6 +9,5 @@
 
 
 
-
-
 ## By Jander Nery
+* ##  [Linkedin](https://www.linkedin.com/in/jander-nery-61531335/)
